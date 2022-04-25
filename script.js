@@ -3,7 +3,7 @@ const sectionOne = document.querySelector(".home-intro");
 const nav = document.querySelector(".main-nav");
 // const nav = document.getElementsByClassName("main-nav")[0];
 
-console.log(nav);
+// console.log(nav); logs to console in inspect 
 
 const sectionOneOptions = {
   rootMargin: "-200px 0px 0px 0px"
